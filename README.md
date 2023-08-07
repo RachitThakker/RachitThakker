@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RachitThakker
-- 👀 I’m interested in Python and JavaScript.
-- 🌱 I’m currently learning JavaScript, Python (advanced concepts) and CSS.
+- 👀 I have 1.5 years of experience with JavaScript, TypeScript, React.js, Next.js
+- 🌱 I’m currently learning Python (advanced concepts).
 - 📫 How to reach me:
   Gmail: rachit.0508@gmail.com
   LinkedIn: https://www.linkedin.com/in/rachit-thakker-bbb68a210/
